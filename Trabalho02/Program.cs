@@ -13,5 +13,6 @@ class Octopus
     Name = name;
 
     Console.WriteLine("V1.0");  //Jarol01
+    Console.WriteLine("V2.0");  //Jarol02
   }
 }
