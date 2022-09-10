@@ -11,5 +11,7 @@ class Octopus
   public Octopus(string name)
   {
     Name = name;
+
+    Console.WriteLine("V1.0");  //Jarol01
   }
 }
