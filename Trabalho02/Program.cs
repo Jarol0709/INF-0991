@@ -16,5 +16,6 @@ class Octopus
     Console.WriteLine("V2.0");  //Jarol02
     Console.WriteLine("V3.0");  //Jarol01
     Console.WriteLine("V3.1");  //Jarol01
+    Console.WriteLine("V3.2");  //Jarol01
   }
 }
